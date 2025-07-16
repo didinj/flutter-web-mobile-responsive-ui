@@ -1,6 +1,6 @@
 # Flutter Web and Mobile from One Codebase: Responsive UI Guide
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6877383f57999b6e2aeeb0b9/flutter-web-and-mobile-from-one-codebase-responsive-ui-guide).
 
 ## Getting Started
 
